@@ -1,0 +1,70 @@
+{
+  "name": "Kodaikanal",
+  "duration": {
+    "days": 4,
+    "nights": 3
+  },
+  "amenities": {
+    "flights": true,
+    "hotels": false,
+    "food": ""
+  },
+  "nextTrip": "",
+  "images": [
+    {
+      "url": "",
+      "title": ""
+    },
+    {
+      "url": "",
+      "title": ""
+    }
+  ],
+  "travelPlanner": {
+    "details": "",
+    "itnery": [
+      {
+        "dayNo": 1,
+        "from": "",
+        "to": "",
+        "details": ""
+      },
+      {
+        "dayNo": 2,
+        "from": "",
+        "to": "",
+        "details": ""
+      }
+    ]
+  },
+  "mediaSection": [
+    {
+      "sectionName": "",
+      "sectionDetail": "",
+      "mediaUrls": [
+        {
+          "title": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "sectionName": "",
+      "sectionDetail": "",
+      "mediaUrls": [
+        {
+          "title": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "url": ""
+        }
+      ]
+    }
+  ]
+}

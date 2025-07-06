@@ -1,0 +1,52 @@
+{
+  "heroCaroselImages": [
+    {
+      "isImage": true,
+      "mediaUrl": ""
+    }, 
+    {
+      "isImage": true,
+      "mediaUrl": ""
+    }
+  ],
+  "popularTours": [
+    {
+      "tourName": "",
+      "tourDescription": "",
+      "tourImage": "",
+      "tourURL": ""
+    }
+  ],
+  "contactNo": "",
+  "contactEmail": "",
+  "mediaSection": [
+    {
+      "sectionName": "",
+      "sectionDetail": "",
+      "mediaUrls": [
+        {
+          "title": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "sectionName": "",
+      "sectionDetail": "",
+      "mediaUrls": [
+        {
+          "title": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
